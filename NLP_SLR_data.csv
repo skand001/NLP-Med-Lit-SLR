@@ -1,0 +1,21 @@
+Paper #,Study Reference,Year,Dataset,Method,ROUGE-1,ROUGE-2,ROUGE-L,Accuracy
+1,"Sun, Y. & Platoš, J.",2024,"Gigaword, CNN/Daily Mail","Hierarchical attention, Pointer-generator, RL",39.955,18.655,36.705,
+2,"Tang, Gao, Zhang, & Wang",2023,"Newsroom, CNN/DM, XSum",URLComSum,18.7,2.1,12.8,
+3,Chen et al.,2020,NTUH-iMD,AlphaBERT,0.712,0.533,0.693,
+4,Phatak et al.,2022,Medical,TESLEA,0.39,0.11,,
+5,Xu et al.,2022,Medical,COSSUM,57.19333333333333,45.93666666666667,56.696666666666665,82.56
+6,Lu et al.,2024,"MeQSum, CHQ-Summ, iCliniq, HealthCareMagic",ECL,45.21,26.585,42.045,
+7,Afsharizadeh et al.,2020,COVID-19 Corpus,RNN-based Model,,,,
+8,Guo et al.,2021,Cochrane Database of Systematic Reviews,BART + CNN/DM + PubMed,53.02,22.06,50.24,
+9,Balouch & Hussain,2023,MIMIC III,Biobart-V2,66.34,61.2,69.42,
+10,Sibunruang & Polpinij,2024,MEDLINE,Text Summarization with NLP & SVM,,,,95.41000000000001
+11,"Kedzie, McKeown, & Daume III",2019,"CNN, DailyMail, New York Times, DUC, Reddit, AMI, PubMed",Seq2Seq,,,,
+12,"Lin, Guo, Dong, Lyu, Xu, & Chen",2023,LCSTS,Improved Transformer,,,,
+13,"Tan, Kieuvongngam, & Niu",2020,CORD-19,BERT and GPT-2,,,,
+14,Nafees Muneera M. & Sriramya P.,2023,"CNN/Daily Mail, Edmunds",OKAM-CGAN,47.65,46.0,42.2,22.0
+15,"Srivastava, R., Singh, P., Rana, K.P.S., & Kumar, V.",2022,"Wikihow, CNN/Daily Mail, DUC2002 Corpus","LDA-based topic modeling, K-Medoids clustering",42.68333333333333,19.89,38.50666666666667,
+16,Searle et al.,2023,"MIMIC-III, KCH",Ensemble model with clinical concept guidance,,,,
+17,"Afzal et al., 2020",2020,Intracranial aneurysm data,"Deep neural network, Word embedding, Semantic similarity, Bi-LSTM",,,,94.205
+18,Bedi et al.,2023,Medical Transcripts from MT Samples,Deep Dense LSTM-CNN Framework,93.5,,,
+19,Sarker et al.,2020,"EBM Corpus, COVID-19 Articles","Word Embedding-based Maximal Marginal Relevance (MMR), Sentence Length, and Position",,,,
+20,Afzal et al.,2020,Intracranial Aneurysm Studies,"Biomed-Summarizer (Deep Neural Network, LSTM, AdaBoost-MLP)",,,,94.205
